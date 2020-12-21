@@ -1,0 +1,1 @@
+SELECT * FROM provider.provider_details;
